@@ -8,7 +8,7 @@ C#
 
 ASP.NET Core MVC
 
-SQL Server
+PostgreSQL
 
 Entity Framework Core
 
